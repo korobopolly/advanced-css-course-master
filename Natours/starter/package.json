@@ -1,0 +1,23 @@
+{
+  "name": "firm-out",
+  "version": "1.0.0",
+  "description": "You were curious about movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korobopolly/advanced-css-course-master.git"
+  },
+  "author": "shqkd1492",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korobopolly/advanced-css-course-master/issues"
+  },
+  "homepage": "https://github.com/korobopolly/advanced-css-course-master#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
